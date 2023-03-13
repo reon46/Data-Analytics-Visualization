@@ -1,8 +1,8 @@
 # Data-Analytics-Visualization
 
-[Download PDF](.Downloads/Computer Vision Application that detects and classifies objects.pdf)
+[Download PDF](.reon46/Data-Analytics-Visualization/Computer Vision Application that detects and classifies objects.pdf)
 
-[Download PDF](.Downloads/Data Visualization for diamond dataset.pdf.pdf)
+[Download PDF](.reon46/Data-Analytics-Visualization/Data Visualization for diamond dataset.pdf)
 
-[Download PDF](.Downloads/Exploratory Data Analysis - Sports Cars Dataset.pdf.pdf)
+[Download PDF](.reon46/Data-Analytics-Visualization/Exploratory Data Analysis - Sports Cars Dataset.pdf)
 
